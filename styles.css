@@ -1,0 +1,38 @@
+.container {
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  font-family: 'Nabla', cursive;
+}
+
+body {
+  background-image: radial-gradient(#8F8F8F, #A52121);
+}
+
+h1 {
+  margin: 20px;
+  font-size: 100px;
+  color: #FED766;
+  font-family: 'Nabla', cursive;
+}
+h2{
+   margin: 30px;
+   font-size: 30px;
+   color: #E67D22;
+   font-family: 'Nabla', cursive;
+}
+img {
+  width: 50%;
+}
+button{
+  width: 50%;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-size: 20px;
+  background-color: #972137;
+  border-color: #E67D22;
+  font-family: 'Nabla', cursive;
+}
